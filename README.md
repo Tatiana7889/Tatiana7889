@@ -150,7 +150,7 @@ With emerging AI technologies to build reliable production solutions.
 - SaaS
 - Enterprise Platforms
 
-# Currently Learning
+# Currently working
 
 - Python
 - Agentic AI
