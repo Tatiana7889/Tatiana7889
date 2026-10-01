@@ -3,7 +3,7 @@
 Senior Full-Stack Software Development Engineer/Technical Lead
 
 **.NET • Azure • SQL Server • React • Blazor • SQL Server  • Angular  •  Python **
-I'm a Senior Full-Stack Software Development Engineer with 20+ years of experience designing and delivering enterprise software.
+I'm a Senior Full-Stack Software Development Engineer with 15+ years of experience designing and delivering enterprise software.
 My background spans cloud-native architecture, distributed systems, microservices, enterprise integrations, and modern web applications built with the Microsoft ecosystem.
 I enjoy solving difficult backend problems, designing scalable APIs, and building software that is reliable, maintainable, and production-ready.
 
