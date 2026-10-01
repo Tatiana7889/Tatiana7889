@@ -101,9 +101,6 @@ Currently using:
 - Claude Code
 - OpenAI APIs
 - MCP (Model Context Protocol)
-
-Exploring:
-
 - LangGraph
 - AutoGen
 - Multi-agent architectures
